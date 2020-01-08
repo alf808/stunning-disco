@@ -1,0 +1,6 @@
+requests
+requests-mock
+responses
+Flask
+flask_restful
+pymongo
