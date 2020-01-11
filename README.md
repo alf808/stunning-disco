@@ -1,5 +1,20 @@
 # Tissue: Facial Comparison API
 
+## Installation
+
+**step 1:**
+```
+docker-compose build
+docker-compose up
+```
+
+**step 2:**
+
+Open browser and go to ```http://localhost:<port>```.
+
+Use the data points specified in usage.
+
+--------------
 ## Usage
 
 
